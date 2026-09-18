@@ -1,27 +1,38 @@
 # Opportunity Dataset Team Project
 
-A team-based data preparation project focused on understanding the Opportunity Dataset, assessing data quality, applying appropriate non-destructive cleaning, and preparing a reliable master dataset for subsequent analysis.
+This repository records a team-based data preparation project using the Opportunity Dataset.
 
-## Project focus
+The main part of the work is the practical side of preparing a real dataset for analysis: understanding the structure, checking data quality, cleaning without unnecessarily changing the original information, and keeping a record of the decisions made along the way.
 
-- Understanding the dataset structure and variables
-- Assessing data quality and consistency
-- Applying non-destructive data cleaning
-- Preparing a reliable master dataset
-- Documenting decisions so the workflow can be reviewed and reproduced
+## What the project covers
 
-## Role
+- Inspecting the dataset structure and variables
+- Checking missing values and data quality
+- Looking for inconsistent or unusable values
+- Applying documented, non-destructive cleaning steps
+- Preparing a working dataset for later analysis
+- Keeping the workflow understandable for the rest of the team
 
-This repository represents **team project work**. Contributions and responsibilities should be interpreted in the context of the wider team workflow.
+## Team project
 
-## Repository
+This is team work rather than a solo project. The repository should therefore be read as part of the wider team workflow, with individual contributions interpreted in that context.
 
-The repository contains the project dataset/documentation and supporting analysis materials.
+## Project documentation
 
-## Context
+When analysis files and reports are added, they will be organised so that a reader can follow the project in this order:
 
-This project complements my individual research and analytics work by giving practical experience in collaborative data preparation and quality assessment.
+1. Dataset and source information
+2. Initial data inspection
+3. Cleaning and quality checks
+4. Team analysis
+5. Final outputs
 
-## Skills demonstrated
+I am deliberately keeping the documentation factual and tied to the files in the repository rather than adding conclusions that are not supported by the project data.
 
-**Data analysis · Data cleaning · Data quality assessment · Documentation · Team collaboration**
+## Skills used
+
+Data preparation · Data quality checking · Data cleaning · Documentation · Team collaboration
+
+## Status
+
+This is coursework/team-project material and is kept separate from my individual IoT research work.
