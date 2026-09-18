@@ -1,38 +1,47 @@
 # Opportunity Dataset Team Project
 
-This repository records a team-based data preparation project using the Opportunity Dataset.
+This repository contains my contribution to a team-based data preparation project using the Opportunity Dataset.
 
-The main part of the work is the practical side of preparing a real dataset for analysis: understanding the structure, checking data quality, cleaning without unnecessarily changing the original information, and keeping a record of the decisions made along the way.
+The main focus here is the practical work around a real sensor dataset: understanding the files, checking the data, making sensible preparation decisions and keeping those decisions clear enough for another team member to follow.
 
-## What the project covers
+## What I worked on
 
-- Inspecting the dataset structure and variables
-- Checking missing values and data quality
-- Looking for inconsistent or unusable values
-- Applying documented, non-destructive cleaning steps
-- Preparing a working dataset for later analysis
-- Keeping the workflow understandable for the rest of the team
+The project work covers areas such as:
 
-## Team project
+- inspecting the dataset structure
+- checking variables and data types
+- looking for missing or unusable values
+- checking data quality before modelling
+- applying documented preparation steps
+- keeping the original information separate from working data
+- recording decisions made during the team project
 
-This is team work rather than a solo project. The repository should therefore be read as part of the wider team workflow, with individual contributions interpreted in that context.
+## Team work
 
-## Project documentation
+This was a team project, not a solo research study. My work should therefore be read in the context of the wider team contribution.
 
-When analysis files and reports are added, they will be organised so that a reader can follow the project in this order:
+I have kept the README factual rather than turning the project into a list of claims about the dataset or its performance.
 
-1. Dataset and source information
-2. Initial data inspection
-3. Cleaning and quality checks
-4. Team analysis
-5. Final outputs
+## Repository contents
 
-I am deliberately keeping the documentation factual and tied to the files in the repository rather than adding conclusions that are not supported by the project data.
+At the time of this cleanup, the GitHub repository contains the project README and repository configuration files. Dataset files, reports and other team material should only be added when they are actually available here and when their sharing conditions allow it.
+
+When the remaining project files are present, I will organise them in a simple order:
+
+1. dataset/source information
+2. initial inspection
+3. data preparation and quality checks
+4. team analysis
+5. final outputs
 
 ## Skills used
 
-Data preparation · Data quality checking · Data cleaning · Documentation · Team collaboration
+Python · Data preparation · Data quality checking · Data cleaning · Documentation · Team collaboration
 
-## Status
+## Relationship to my other work
 
-This is coursework/team-project material and is kept separate from my individual IoT research work.
+This is coursework/team-project material. It is kept separate from my individual IoT project and from my earlier data-science coursework.
+
+## Note on the dataset
+
+The Opportunity Dataset is third-party material. This repository does not claim ownership of the underlying dataset. Any future dataset copy or redistribution should follow the dataset's own terms and source requirements.
